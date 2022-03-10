@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/joeGiusti/tableApp/static/css/main.0e5867f8.css",
+    "main.js": "/joeGiusti/tableApp/static/js/main.7e8add8b.js",
+    "static/js/787.9675e260.chunk.js": "/joeGiusti/tableApp/static/js/787.9675e260.chunk.js",
+    "index.html": "/joeGiusti/tableApp/index.html",
+    "main.0e5867f8.css.map": "/joeGiusti/tableApp/static/css/main.0e5867f8.css.map",
+    "main.7e8add8b.js.map": "/joeGiusti/tableApp/static/js/main.7e8add8b.js.map",
+    "787.9675e260.chunk.js.map": "/joeGiusti/tableApp/static/js/787.9675e260.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e5867f8.css",
+    "static/js/main.7e8add8b.js"
+  ]
+}
